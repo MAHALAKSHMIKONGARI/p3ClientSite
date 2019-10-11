@@ -7,6 +7,7 @@ Referecences:
 - Generating Favicon : [https://favicon.io/](https://favicon.io/)
 - https://www.w3schools.com/
 Performed [Q Unit Testing](C:/Users/S536979/Desktop/p2PubliseSite/qunit.html)
+Created icons and added manifest file
 - Used [Storage](https://github.com/profcase/js-gui-storage)
 - Used [Ajax](https://github.com/profcase/js-gui-ajax)
 - Used [QUnit](https://github.com/profcase/js-gui-with-tests)
